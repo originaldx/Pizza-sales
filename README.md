@@ -112,6 +112,10 @@ Total sales for each pizza: This will reveal which pizza is the top performer in
 
 ![fig 21](https://github.com/originaldx/Pizza-sales/blob/main/P%2021.png).
 
+Busiest order dates and times: TO IDENTIFY THE BUSIEST ORDER DATES AND TIMES CAN AID IN RESOURCE ALLOCATION AND STAFFING
+
+
+
 
 
 
