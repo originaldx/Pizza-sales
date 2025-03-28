@@ -55,9 +55,14 @@ The result shows that the total revenue of the pizza company is $817,860. This i
 TOTAL PIZZA SOLD: To calculate total pizza sold, I sum up the quantity column from the pizza table. This is the query I used :
 
 ![fig 6](https://github.com/originaldx/Pizza-sales/blob/main/P%206.png).
+
 ![fig 7](https://github.com/originaldx/Pizza-sales/blob/main/P%207.png).
 
 TOTAL ORDERS: To calculate total orders, I can simply count distinct order ID  column from the pizza table. This is the query I used: 
+![fig 8](https://github.com/originaldx/Pizza-sales/blob/main/P%208.png).
+
+
+
 
 
 
