@@ -63,6 +63,8 @@ TOTAL ORDERS: To calculate total orders, I can simply count distinct order ID  c
 
 ![fig 9](https://github.com/originaldx/Pizza-sales/blob/main/P%209.png).
 
+Average order values: The average order value is the total revenue divided by the number of orders. Here is the query that I used: 
+
 
 
 
