@@ -73,6 +73,9 @@ MONTHLY TREND: to get this analysis, I can use the DATENAME function to extract 
 
 Percentage of sales by pizza category and size: I can use the sum and group by functions to calculate the total revenue for each prize category and size, and then divide them by the total revenue of the whole table. Here are the queries I used:
 
+![fig 12](https://github.com/originaldx/Pizza-sales/blob/main/P%2012.png).
+
+
 
 
 
