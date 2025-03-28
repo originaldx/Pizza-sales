@@ -138,6 +138,11 @@ Conclusion: Understanding customer preferences through data-driven insights is t
 [PowerBi visuals](https://github.com/originaldx/Pizza-sales/blob/main/pizza%20sales%20vizuals%20using%20power%20bi.pbix).
 
 
+![screeshot 1](https://github.com/originaldx/Pizza-sales/blob/main/P%2025.png)
+
+![screenshot 2]()
+
+
 
 
 
