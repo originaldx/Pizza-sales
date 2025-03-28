@@ -13,6 +13,14 @@ Steps for pizza sales Analysis.
 1.Data collection
 I previewed this dataset, After doing this I proceed to opening my MS SQL and created a database for pizza sales data –“PIZZASALES_DB”.
 
+![fig 1 ](https://github.com/originaldx/Pizza-sales/blob/main/P%201.png)
+
+Next I proceed to import my data into the “PIZZASALES_DB” database:
+         “CLICK ON PIZZASALES_DB->TASK->IMPORT FLAT FILE->BROWSE FOR MY DATA AND IMPORT”
+While importing the data, I changed some data types to ensure they were compatible with my queries. I changed the data types from nvarchar(50) to varchar(50) for columns that contained text vales, such as pizza  name id, pizza category, pizza size, and customer name. I did this because nvarchar(50) uses more storage space than varchar(50) and can affect the performance and accuracy of my queries. And I also changed the data type from tinyint to int for the quantity column, because tinyint can only store values from 0 to 255 and int can store more
+
+
+
 
 
 
