@@ -61,6 +61,9 @@ TOTAL PIZZA SOLD: To calculate total pizza sold, I sum up the quantity column fr
 TOTAL ORDERS: To calculate total orders, I can simply count distinct order ID  column from the pizza table. This is the query I used: 
 ![fig 8](https://github.com/originaldx/Pizza-sales/blob/main/P%208.png).
 
+![fig 9](https://github.com/originaldx/Pizza-sales/blob/main/P%209.png).
+
+
 
 
 
