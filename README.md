@@ -1,4 +1,9 @@
 # Pizza Sales Analysis with SQL and Power Bi
+
+
+![pizza](https://github.com/originaldx/Pizza-sales/blob/main/p%2027.jpg)
+
+
 # OVERVIEW
 Pizza, the ultimate comfort food, has become a staple in the global culinary landscape. As pizzerias continue to thrive, it’s crucial for businesses to harness the power of data analytics to optimize their offerings and understand customer preferences. In this article, we’ll dive into the world of pizza sales, using SQL to analyze a dataset encompassing various aspects of the pizza ordering process. Imagine a pizza company wondering how well they’re doing. That’s where SQL steps in 
 SQL stands for ‘structured query language’. It’s a programming language used to manage and manipulate data stored in relational database.
