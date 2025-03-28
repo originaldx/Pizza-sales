@@ -135,6 +135,8 @@ In the competitive landscape of pizza sales, leveraging SQL for data analysis of
 Conclusion: Understanding customer preferences through data-driven insights is the secret ingredient to a successful pizzeria. As the saying goes, when in doubt, let SQL slice through the complexities of your data and serve up a delicious analysis of your pizza sales.
 
 # Dashboard
+[PowerBi visuals](https://github.com/originaldx/Pizza-sales/blob/main/pizza%20sales%20vizuals%20using%20power%20bi.pbix).
+
 
 
 
