@@ -89,8 +89,7 @@ BOTTOM 5 PIZZA BY QUANTITY:
 
 TOP 5 PIZZA BY ORDERS:
 
-
-
+![fig 16](https://github.com/originaldx/Pizza-sales/blob/main/P%2016.png).
 
 
 
