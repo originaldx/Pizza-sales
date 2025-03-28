@@ -119,6 +119,10 @@ Busiest order dates and times: TO IDENTIFY THE BUSIEST ORDER DATES AND TIMES CAN
 Ingredients Analysis: THIS QUERY PROVIDE A LIST OF PIZZA NAMES ALONG WITH THEIR INGREDIENTS, OFFERING INSIGHTS INTO VARIETY OF TOPPINGS USED
 
 
+![fig 23](https://github.com/originaldx/Pizza-sales/blob/main/P%2023.png).
+
+PRIZE DISTRIBUTION BY PIZZA SIZE: The query used here provides insights distribution across different pizza sizes:
+
 
 
 
