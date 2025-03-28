@@ -50,6 +50,11 @@ Total revenue: To calculate the total revenue, I can sum the Total price column 
 
 ![fig 5](https://github.com/originaldx/Pizza-sales/blob/main/P%205.png).
 
+The result shows that the total revenue of the pizza company is $817,860. This is an important metric that tells us how much money the pizza company has made from its sales.
+
+TOTAL PIZZA SOLD: To calculate total pizza sold, I sum up the quantity column from the pizza table. This is the query I used :
+
+
 
 
 
