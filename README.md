@@ -106,7 +106,11 @@ BOTTOM 5 PIZZA BY REVENUE:
 
 popular pizza categories: Understanding the popularity of different pizza categories can guide marketing strategies. and enable the pizza company to focus on customer’s favorites. Here is the query I used:
 
+![fig 20](https://github.com/originaldx/Pizza-sales/blob/main/P%2020.png).
 
+Total sales for each pizza: This will reveal which pizza is the top performer in terms of revenue. The query sums up the total price for each unique pizza name:
+
+![fig 21]().
 
 
 
