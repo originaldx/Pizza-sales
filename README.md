@@ -79,6 +79,8 @@ Percentage of sales by pizza category and size: I can use the sum and group by f
 
 Top 5 and bottom 5 pizza by revenue, quantity, and orders: To get this , I can  sum and group by functions to calculate the total revenue, quantity , and orders for each pizza name, and then use the Top and ORDER BY to clauses to select the top 5 and bottom 5 rows. Here are the queries that I used:
 
+TOP 5 PIZZA BY QUANTITY:
+
 
 
 
