@@ -114,6 +114,10 @@ Total sales for each pizza: This will reveal which pizza is the top performer in
 
 Busiest order dates and times: TO IDENTIFY THE BUSIEST ORDER DATES AND TIMES CAN AID IN RESOURCE ALLOCATION AND STAFFING
 
+![fig 22](https://github.com/originaldx/Pizza-sales/blob/main/P%2022.png).
+
+Ingredients Analysis: THIS QUERY PROVIDE A LIST OF PIZZA NAMES ALONG WITH THEIR INGREDIENTS, OFFERING INSIGHTS INTO VARIETY OF TOPPINGS USED
+
 
 
 
