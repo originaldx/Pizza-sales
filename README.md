@@ -10,7 +10,7 @@ Steps for pizza sales Analysis.
 5.	Conclusion : what pizza the pizza company 
 
 
-1.Data collection
+# 1.Data collection
 I previewed this dataset, After doing this I proceed to opening my MS SQL and created a database for pizza sales data –“PIZZASALES_DB”.
 
 ![fig 1 ](https://github.com/originaldx/Pizza-sales/blob/main/P%201.png)
@@ -21,7 +21,7 @@ While importing the data, I changed some data types to ensure they were compatib
 
 ![fig 2](https://github.com/originaldx/Pizza-sales/blob/main/P%202.png)
 
-2.DATA CLEANING
+# 2.DATA CLEANING
 Observing the dataset, I checked the first 5 rows to make sure its imported well and all columns have the right header   
 
 
