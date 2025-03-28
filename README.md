@@ -83,6 +83,8 @@ TOP 5 PIZZA BY QUANTITY:
 
 ![fig 14](https://github.com/originaldx/Pizza-sales/blob/main/P%2014.png).
 
+BOTTOM 5 PIZZA BY QUANTITY:
+
 
 
 
