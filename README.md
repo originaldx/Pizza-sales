@@ -140,7 +140,8 @@ Conclusion: Understanding customer preferences through data-driven insights is t
 
 ![screeshot 1](https://github.com/originaldx/Pizza-sales/blob/main/P%2025.png)
 
-![screenshot 2]()
+
+![screenshot 2](https://github.com/originaldx/Pizza-sales/blob/main/P%2026.png)
 
 
 
