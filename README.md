@@ -28,20 +28,20 @@ Observing the dataset, I checked the first 5 rows to make sure its imported well
 
   # 3.Business questions  
     
-DATA ANALYSIS
-    Now that I have the data ready, I can now start writing some queries like.
-o	Total revenue
-o	Total pizza sold
-o	Total order
-o	Average order value
-o	Monthly sales trend
-o	percentage of sales by pizza categories and size
-o	Top 5 and bottom 5 pizza by revenue, quantity, and orders
-o	popular pizza categories
-o	total sales for each pizza 
-o	busiest order dates and times 
-o	ingredients analysis for specific pizzas
-o	Price distribution by pizza size 
+## DATA ANALYSIS
+  Now that I have the data ready, I can now start writing some queries like.
+1. Total revenue
+2. Total pizza sold
+3. Total order
+4. Average order value
+5. onthly sales trend
+6. percentage of sales by pizza categories and size
+7. Top 5 and bottom 5 pizza by revenue, quantity, and orders
+8. popular pizza categories
+9. total sales for each pizza 
+10. busiest order dates and times 
+11. ingredients analysis for specific pizzas
+12. Price distribution by pizza size 
 
 
 
