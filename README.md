@@ -22,7 +22,30 @@ While importing the data, I changed some data types to ensure they were compatib
 ![fig 2](https://github.com/originaldx/Pizza-sales/blob/main/P%202.png)
 
 # 2.DATA CLEANING
-Observing the dataset, I checked the first 5 rows to make sure its imported well and all columns have the right header   
+Observing the dataset, I checked the first 5 rows to make sure its imported well and all columns have the right header  
+
+![fig 3](https://github.com/originaldx/Pizza-sales/blob/main/P%203.png).
+
+  # 3.Business questions  
+    
+DATA ANALYSIS
+    Now that I have the data ready, I can now start writing some queries like.
+o	Total revenue
+o	Total pizza sold
+o	Total order
+o	Average order value
+o	Monthly sales trend
+o	percentage of sales by pizza categories and size
+o	Top 5 and bottom 5 pizza by revenue, quantity, and orders
+o	popular pizza categories
+o	total sales for each pizza 
+o	busiest order dates and times 
+o	ingredients analysis for specific pizzas
+o	Price distribution by pizza size 
+
+
+
+Total revenue: To calculate the total revenue, I can sum the Total price column from the pizza sales table. Here is the query that I used: 
 
 
 
