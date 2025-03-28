@@ -67,6 +67,8 @@ Average order values: The average order value is the total revenue divided by th
 
 ![fig 10](https://github.com/originaldx/Pizza-sales/blob/main/P%2010.png).
 
+MONTHLY TREND: to get this analysis, I can use the DATENAME function to extract the month  name from the order date column and the group them. Here are the Queries used:
+
 
 
 
