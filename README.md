@@ -132,7 +132,10 @@ In the competitive landscape of pizza sales, leveraging SQL for data analysis of
 * The pizza company should focus on increasing their sales on weekends and in the middles of the year when they have lower demand. They can do this by offering discounts, coupons to attract more customers.
 * The pizza company should leverage its strengths and address its weakness by promoting its best-selling pizzas and improving its low selling pizzas. They can do this by high lighting the benefits and features of their popular pizzas, such as quality, nutrition, taste.
 * The pizza company should optimize its product mix and menu design by offering more variety and options for its customers. They can do this by introducing new flavors or by creating combos or bundles that includes drinks or slides.
-Conclusion: Understanding customer preferences through data-driven insights is the secret ingredient to a successful pizzeria. As the saying goes, when in doubt, let SQL slice through the complexities of your data and serve up a delicious analysis of your pizza sales. 
+Conclusion: Understanding customer preferences through data-driven insights is the secret ingredient to a successful pizzeria. As the saying goes, when in doubt, let SQL slice through the complexities of your data and serve up a delicious analysis of your pizza sales.
+
+# Dashboard
+
 
 
 
