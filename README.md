@@ -48,8 +48,8 @@ Observing the dataset, I checked the first 5 rows to make sure its imported well
 Total revenue: To calculate the total revenue, I can sum the Total price column from the pizza sales table. Here is the query that I used: 
 ![fig 4](https://github.com/originaldx/Pizza-sales/blob/main/P%204.png).
 
-result
-![fig 5](
+![fig 5](https://github.com/originaldx/Pizza-sales/blob/main/P%205.png).
+
 
 
 
