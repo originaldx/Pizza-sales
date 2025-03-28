@@ -126,11 +126,12 @@ PRIZE DISTRIBUTION BY PIZZA SIZE: The query used here provides insights distribu
 ![fig 24](https://github.com/originaldx/Pizza-sales/blob/main/P%2024.png).
 
 Insight and recommendation:
+
 In the competitive landscape of pizza sales, leveraging SQL for data analysis offers a strategic advantage. By delving into key aspects such as total sales, popular categories, average quantity per size, and top selling pizza. Businesses can refine their strategies, enhance customer’s experiences, and stay ahead of the pizza game. 
  Based on these findings, I have some recommendation for the pizza company:
-*The pizza company should focus on increasing their sales on weekends and in the middles of the year when they have lower demand. They can do this by offering discounts, coupons to attract more customers.
-*The pizza company should leverage its strengths and address its weakness by promoting its best-selling pizzas and improving its low selling pizzas. They can do this by high lighting the benefits and features of their popular pizzas, such as quality, nutrition, taste.
-*The pizza company should optimize its product mix and menu design by offering more variety and options for its customers. They can do this by introducing new flavors or by creating combos or bundles that includes drinks or slides.
+* The pizza company should focus on increasing their sales on weekends and in the middles of the year when they have lower demand. They can do this by offering discounts, coupons to attract more customers.
+* The pizza company should leverage its strengths and address its weakness by promoting its best-selling pizzas and improving its low selling pizzas. They can do this by high lighting the benefits and features of their popular pizzas, such as quality, nutrition, taste.
+* The pizza company should optimize its product mix and menu design by offering more variety and options for its customers. They can do this by introducing new flavors or by creating combos or bundles that includes drinks or slides.
 Conclusion: Understanding customer preferences through data-driven insights is the secret ingredient to a successful pizzeria. As the saying goes, when in doubt, let SQL slice through the complexities of your data and serve up a delicious analysis of your pizza sales. 
 
 
