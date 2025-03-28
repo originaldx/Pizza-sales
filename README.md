@@ -93,6 +93,10 @@ TOP 5 PIZZA BY ORDERS:
 
 BOTTOM 5 PIZZA BY ORDERS:
 
+![fig 17](https://github.com/originaldx/Pizza-sales/blob/main/P%2017.png).
+
+TOP 5 PIZZA BY REVENUE:
+
 
 
 
