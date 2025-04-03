@@ -39,7 +39,7 @@ Observing the dataset, I checked the first 5 rows to make sure its imported well
 2. Total pizza sold
 3. Total order
 4. Average order value
-5. onthly sales trend
+5. Monthly sales trend
 6. percentage of sales by pizza categories and size
 7. Top 5 and bottom 5 pizza by revenue, quantity, and orders
 8. popular pizza categories
